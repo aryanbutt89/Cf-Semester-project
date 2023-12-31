@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nike Shoes</title>
+    <link rel="stylesheet" href="tre22.css">
+</head>
+<body>
+
+    <header>
+        <img src="logo-PhotoRoom.png-PhotoRoom.png" alt="Nike Logo" class="logo" width="150" lenght="200">
+        <p1>JUST DO IT</p1>
+
+    </header>
+
+    <nav>
+        <a href="#order">Order Now</a>
+        <a href="#login">Login</a>
+        <a href="#signup">Signup</a>
+        <a href="#contact">Contact</a>
+        <a href="#offers">Offers</a>
+        <a href="#sales">Sales</a>
+    </nav>
+
+    <div class="search-bar">
+        <input type="text" class="search-input" placeholder="Search For Shoes, Clothes and Slippers.">
+        <button class="search-button">Search</button>
+    </div>
+
+    <section class="men-section">
+        <p1><h2><br></br> Shoes For Men's </h2></p1>
+        <div class="shoe-box">
+            <div class="shoe">
+                <br></br>
+                <img src="pandafi.jpeg" alt="Nike Jordan 1 Panda ">
+                <br><br></br></br>
+                <a href="Jordan 1 Panda  - $129.99">Jordan 1 Panda  - $129.99</a>
+            </div>
+            <div class="shoe">
+                <img src="mid_1_e-removebg-preview.png" alt="Nike Jordan Mid 1">
+                <a href="Nike Jordan Mid 1 - $99.99">Nike Jordan Mid 1 - $99.99</a>
+            </div>
+            <div class="shoe">
+                <img src="mid se.png" alt="Nike Jordan 1 Mid  SE">
+                <a href="Nike Jordan 1 Mid SE $119.99">Nike Jordan 1 Mid SE $119.99</a>
+            </div>
+            <div class="shoe">
+                <img src="ogw2-removebg-preview.png" alt="Nike Jordan 1 Hig OG ">
+                <a href=" Nike Jordan 1 Hig OG - $89.99"> Nike Jordan 1 Hig OG - $89.99</a>
+            </div>
+            <div class="shoe">
+                <img src="airf2-removebg-preview.png" alt="Nike Air Force 1">
+                <a href="Nike Air Force 1 - $109.99"> Nike Air Force 1 - $109.99</a>
+            </div>
+            <div class="shoe">
+                <img src="retfi.png" alt="Nike Jordan 1 Retro High">
+                <a href="Nike Jordan 1 Retro High - $139.99"> Nike Jordan 1 Retro High - $139.99</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="women-section">
+        <h2>Shoes For Women's </h2>
+        <div class="shoe-box">
+            <div class="shoe">
+                <img src="w11f.png" alt="Nike Free RN 5.0">
+                <a href="Nike Free RN 5.0 - $89.99"> Nike Free RN 5.0 - $89.99</a>
+            </div>
+            <div class="shoe">
+                <img src="qq11f-removebg-preview.png" alt="Nike React Infinity Run">
+                <a href="Nike React Infinity Run - $139.99"> Nike React Infinity Run - $139.99</a>
+            </div>
+            <div class="shoe">
+                <img src="r11f-removebg-preview.png" alt="Nike Air Max 2023">
+                <a href="Nike Air Max 2023 - $129.99"> Nike Air Max 2023 - $129.99</a>
+            </div>
+            <div class="shoe">
+                <img src="t13-PhotoRoom.png-PhotoRoom.png" alt="Nike Zoom Pegasus 38">
+                <a href="Nike Zoom Pegasus 38 - $99.99"> Nike Zoom Pegasus 38 - $99.99</a>
+            </div>
+            <div class="shoe">
+                <img src="b1-PhotoRoom.png-PhotoRoom.png" alt="Nike React Element 55">
+                <a href="Nike React Element 55 - $119.99"> Nike React Element 55 - $119.99</a>
+            </div>
+            <div class="shoe">
+                <img src="rr-PhotoRoom.png-PhotoRoom.png" alt="Nike Air Force 1">
+                <a href="Nike Air Force 1 - $109.99"> Nike Air Force 1 - $109.99</a>
+            </div>
+        </div>
+    </section>
+
+    <div class="offers-section">
+        <h2>Special Offers</h2>
+        <ul>
+        <li>Explore exclusive offers on our latest collection. Limited time only!</li>
+        </ul>
+    </div>
+
+    <div class="sales-section">
+        <h2>Seasonal Sales</h2>
+        <p>End-of-Year Clearance:</p>
+        <ul>
+            <li>Up to 40% off on selected styles</li>
+            <li>Free shipping on orders over $50</li>
+        </ul>
+    </div>
+
+    <footer>
+        <p>&copy; 2023 Nike Shoes. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
