@@ -1,0 +1,90 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FAF9F6;
+    color: #333;
+}
+
+header {
+    background-color: #04d9ff;
+    color: #fff;
+    text-align: left;
+    padding: 1em 0;
+}
+
+nav {
+    background-color: #333;
+    color: #04d9ff;
+    padding: 10px;
+    text-align: right;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+a {
+    color: black;
+}
+
+.men-section, .women-section {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.shoe-box {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.shoe {
+    width: 300px;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.shoe img {
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.offers-section, .sales-section {
+    background-color: #333;
+    color: #fff;
+    text-align: left;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.search-bar {
+    width: 40%;
+    margin: 20px;
+    text-align: center;
+}
+
+.search-input {
+    padding: 8px;
+    font-size: 16px;
+    width: 70%;
+    border: 1px solid #28282B;
+    border-radius: 5px;
+}
+
+.search-button {
+    padding: 8px 20px;
+    font-size: 16px;
+    background-color: #28282B;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
